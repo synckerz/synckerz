@@ -1,35 +1,52 @@
 # Hi, I'm Umar 👋
 
-I'm an MSc Software Engineering student focused on building practical software and developing strong software engineering fundamentals.
+**MSc Software Engineering Student · Software Development · C# / .NET**
+
+I'm currently studying for an MSc in Software Engineering and building my skills through practical software projects.
 
 ## About Me
 
-- 🎓 MSc Software Engineering student
-- 💻 Developing my software development skills through practical projects
-- 🧩 Interested in software development, problem solving, and building useful applications
-- 🚀 Open to freelance software development opportunities
-- 📚 Learning by building, testing, and improving
+- 🎓 MSc Software Engineering student at the University of Essex
+- 💻 Building practical software and strengthening my engineering fundamentals
+- 🧩 Interested in software development, problem solving, and useful applications
+- 🧪 Learning through implementation, testing, and iteration
+- 🚀 Open to freelance software development projects
 
-## Current Technical Focus
+## Technical Focus
 
+**Currently working with**
 - C#
 - .NET
-- Git & GitHub
+- Git
+- GitHub
 
-## What You'll Find Here
+I only list technologies here that I am actively working with or can demonstrate through my projects.
 
-This profile documents my software engineering journey through projects, experiments, and practical work.
+## What I'm Building
 
-My focus is on writing understandable code, learning solid engineering practices, and turning requirements into working software.
+This profile is a record of my progression as a Software Engineering student.
+
+You'll find projects and experiments focused on:
+- software development fundamentals
+- application development
+- problem solving
+- clean and maintainable code
+- testing and engineering practices
+
+As my skills develop, completed projects will be added here with their source code, documentation, and implementation details.
 
 ## Freelance
 
-I'm open to freelance software development projects where I can build practical solutions, improve existing software, or help turn a defined requirement into a working application.
+I'm open to freelance software development work where the requirements are clear and I can contribute to building, improving, or maintaining practical software.
 
-## Currently Learning
+I value clear requirements, honest communication, and delivering working solutions.
 
-MSc Software Engineering — University of Essex
+## Current Learning
+
+**MSc Software Engineering — University of Essex**
+
+I'm using the MSc alongside hands-on projects to develop stronger knowledge of software engineering principles and professional development practices.
 
 ---
 
-*Building skills through real projects, one commit at a time.*
+*Learning by building. Improving through practice.*
