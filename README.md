@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Umar 👋
 
-<!--
-**synckerz/synckerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Software Engineering student focused on building practical software and developing strong software engineering fundamentals.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MSc Software Engineering student
+- 💻 Developing my software development skills through practical projects
+- 🧩 Interested in software development, problem solving, and building useful applications
+- 🚀 Open to freelance software development opportunities
+- 📚 Learning by building, testing, and improving
+
+## Current Technical Focus
+
+- C#
+- .NET
+- Git & GitHub
+
+## What You'll Find Here
+
+This profile documents my software engineering journey through projects, experiments, and practical work.
+
+My focus is on writing understandable code, learning solid engineering practices, and turning requirements into working software.
+
+## Freelance
+
+I'm open to freelance software development projects where I can build practical solutions, improve existing software, or help turn a defined requirement into a working application.
+
+## Currently Learning
+
+MSc Software Engineering — University of Essex
+
+---
+
+*Building skills through real projects, one commit at a time.*
