@@ -2,22 +2,18 @@
 
 **MSc Computer Science student · University of Essex Online**
 
-I am developing my knowledge of computing through postgraduate study and practical work. This profile is a record of my learning, projects, and progress toward building reliable software.
+I am developing my knowledge of computing through postgraduate study and practical work. This profile is a record of my learning, selected public work, and progress toward building reliable software.
 
 ## Focus
 
 - **Computing foundations** — strengthening my understanding of core concepts and how they apply to real-world problems.
-- **Software development** — building practical skills through small, clearly scoped projects and exercises.
+- **Software development** — building practical skills through clearly scoped exercises and projects.
 - **Engineering practice** — learning to document decisions, test work, use version control, and improve solutions iteratively.
 - **Research and communication** — developing academic writing, source evaluation, and evidence-based technical explanations.
 
-## Selected work
+## Selected public work
 
-- **Black Lions App** — a private project repository.
-- **BlackLionsBooking** — a private application project repository.
-- **C# / .NET exercises** — practical learning exercises and experiments.
-
-Some repositories are private, so not all project details or source code are publicly available. I will add public examples and documentation as they are ready to share.
+I will feature projects here when they are ready to share publicly, with clear documentation explaining their purpose, implementation, and current status.
 
 ## Learning portfolio
 
