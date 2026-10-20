@@ -1,52 +1,37 @@
-# Hi, I'm Umar 👋
+# Umar Aziz
 
-**MSc Software Engineering Student · Software Development · C# / .NET**
+**MSc Computer Science student · University of Essex Online**
 
-I'm currently studying for an MSc in Software Engineering and building my skills through practical software projects.
+I am developing my knowledge of computing through postgraduate study and practical work. This profile is a record of my learning, projects, and progress toward building reliable software.
 
-## About Me
+## Focus
 
-- 🎓 MSc Software Engineering student at the University of Essex
-- 💻 Building practical software and strengthening my engineering fundamentals
-- 🧩 Interested in software development, problem solving, and useful applications
-- 🧪 Learning through implementation, testing, and iteration
-- 🚀 Open to freelance software development projects
+- **Computing foundations** — strengthening my understanding of core concepts and how they apply to real-world problems.
+- **Software development** — building practical skills through small, clearly scoped projects and exercises.
+- **Engineering practice** — learning to document decisions, test work, use version control, and improve solutions iteratively.
+- **Research and communication** — developing academic writing, source evaluation, and evidence-based technical explanations.
 
-## Technical Focus
+## Selected work
 
-**Currently working with**
-- C#
-- .NET
-- Git
-- GitHub
+- **Black Lions App** — a private project repository.
+- **BlackLionsBooking** — a private application project repository.
+- **C# / .NET exercises** — practical learning exercises and experiments.
 
-I only list technologies here that I am actively working with or can demonstrate through my projects.
+Some repositories are private, so not all project details or source code are publicly available. I will add public examples and documentation as they are ready to share.
 
-## What I'm Building
+## Learning portfolio
 
-This profile is a record of my progression as a Software Engineering student.
+I maintain a learning portfolio alongside my MSc to record module activities, completed artefacts, feedback, reflections, and development goals.
 
-You'll find projects and experiments focused on:
-- software development fundamentals
-- application development
-- problem solving
-- clean and maintainable code
-- testing and engineering practices
+**Portfolio:** https://synckerz.github.io/synckerz/
 
-As my skills develop, completed projects will be added here with their source code, documentation, and implementation details.
+## Working principles
 
-## Freelance
-
-I'm open to freelance software development work where the requirements are clear and I can contribute to building, improving, or maintaining practical software.
-
-I value clear requirements, honest communication, and delivering working solutions.
-
-## Current Learning
-
-**MSc Software Engineering — University of Essex**
-
-I'm using the MSc alongside hands-on projects to develop stronger knowledge of software engineering principles and professional development practices.
+- Be accurate about what is complete and what is still in progress.
+- Prefer clear, maintainable solutions over unnecessary complexity.
+- Use feedback and testing to improve work.
+- Support technical and academic claims with appropriate evidence.
 
 ---
 
-*Learning by building. Improving through practice.*
+*Learning through practice; improving through reflection.*
