@@ -1,4 +1,4 @@
-# Umar Aziz
+# Umar Abdulaziz
 
 **MSc Computer Science student · University of Essex Online**
 
