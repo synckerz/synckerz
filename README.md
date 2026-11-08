@@ -1,47 +1,84 @@
-# Umar Abdulaziz
+<!-- Profile README for github.com/synckerz -->
+<div align="center">
 
-**MSc Software Engineering student · University of Essex Online**
+# UMAR ABDULAZIZ
 
-I am developing as a software engineer through postgraduate study and hands-on projects. I use this profile to document practical learning, explore engineering concepts, and build a portfolio of well-explained software.
+### SOFTWARE ENGINEERING · GAME DEVELOPMENT · BUILDING IN PUBLIC
 
-## Current technical focus
+*Learning the craft. Building the systems. Chasing the worlds worth creating.*
 
-- **Programming:** Python, with continued development in C# and .NET.
-- **Software engineering:** requirements, problem-solving, maintainable code, testing, and iterative development.
-- **Computer science foundations:** algorithms, data structures, complexity analysis, and computational thinking.
-- **Backend and systems:** APIs, databases, system design, and automation.
-- **Engineering workflow:** Git, GitHub, documentation, debugging, and version control.
+[![GitHub](https://img.shields.io/badge/GitHub-synckerz-181717?style=for-the-badge&logo=github)](https://github.com/synckerz)
+[![University](https://img.shields.io/badge/MSc-Software%20Engineering-5B2C83?style=for-the-badge)](https://www.essex.ac.uk/)
+[![Focus](https://img.shields.io/badge/Focus-Python%20%7C%20Software%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## Selected work
-
-### [Unit 3 – Algorithm Analysis and Implementation](https://github.com/synckerz/unit3-algorithm-analysis)
-
-A Python learning project comparing Bubble Sort and Quick Sort. It includes implementations, a small performance experiment, recorded results, a graph, analysis, and reflection.
-
-This is an academic learning artefact, not a production software system.
-
-## Learning portfolio
-
-I maintain a learning portfolio alongside my MSc to record module activities, practical artefacts, feedback, reflections, and development goals.
-
-**[Visit my learning portfolio](https://synckerz.github.io/synckerz/)**
-
-## What I am working towards
-
-- Building complete software projects from requirements through implementation and testing.
-- Understanding the design decisions behind reliable and maintainable systems.
-- Improving Python and C#/.NET through regular practice.
-- Learning to collaborate through issues, code reviews, and open-source contributions.
-- Developing a portfolio that demonstrates what I can build and explain.
-
-## Working principles
-
-- Be accurate about what is complete and what is still in progress.
-- Prefer clear, maintainable solutions over unnecessary complexity.
-- Test assumptions and explain technical decisions.
-- Learn by reading, building, debugging, and improving.
-- Support technical and academic claims with appropriate evidence.
+</div>
 
 ---
 
-*Learning through practice. Engineering with purpose.*
+## PLAYER PROFILE
+
+I am an MSc Software Engineering student at the **University of Essex Online**, developing my skills through academic study and practical projects.
+
+My current path is grounded in software engineering fundamentals: understanding problems, writing code, analysing algorithms, testing ideas, and improving solutions through iteration.
+
+Beyond the engineering discipline, I have a long-standing interest in **video games and game development**. The ambition is to grow from learning how software works to eventually creating interactive experiences of my own.
+
+I am documenting the journey honestly: what I have built, what I am learning, and what I still need to master.
+
+## CURRENT QUESTS
+
+| Area | Current direction |
+|---|---|
+| Programming | Python fundamentals and problem solving |
+| Software engineering | Requirements, design, testing, maintainability |
+| Computer science | Algorithms, data structures, complexity |
+| Application development | Exploring C# and .NET through practical work |
+| Game development | Exploring game engines, gameplay systems and interactive design |
+| Engineering workflow | Git, GitHub, debugging and technical documentation |
+
+## SELECTED WORK
+
+### Algorithm Analysis and Implementation
+A Python learning project comparing Bubble Sort and Quick Sort. It includes implementations, a small performance experiment, recorded results, a graph, analysis and reflection.
+
+[**View repository →**](https://github.com/synckerz/unit3-algorithm-analysis)
+
+*An academic learning artefact — not presented as production software.*
+
+## THE LONG-TERM VISION
+
+I want to develop into an engineer who can move between disciplines: designing reliable software, understanding systems beneath the interface, automating real workflows, and eventually building games and interactive products.
+
+The game-development ambition is a direction I am working towards, not a claim of professional game-development experience.
+
+Areas I am interested in exploring further:
+
+- Gameplay programming and game mechanics
+- Game architecture, tools and development pipelines
+- Artificial intelligence in games
+- Physics, graphics and interactive systems
+- Backend services and online game infrastructure
+
+## LEARNING PRINCIPLES
+
+- Build understanding before chasing complexity.
+- Read source code, not just tutorials.
+- Test, debug, measure and explain decisions.
+- Keep projects documented and honest about their status.
+- Learn in public without confusing activity with progress.
+
+## PORTFOLIO
+
+My learning portfolio records study activities, practical artefacts, reflections and development goals.
+
+[**Open learning portfolio →**](https://synckerz.github.io/synckerz/)
+
+---
+
+<div align="center">
+
+**CURRENT STATUS:** Learning · Experimenting · Building
+
+*One commit at a time.*
+
+</div>
