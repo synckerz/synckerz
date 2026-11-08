@@ -1,33 +1,47 @@
 # Umar Abdulaziz
 
-**MSc Computer Science student · University of Essex Online**
+**MSc Software Engineering student · University of Essex Online**
 
-I am developing my knowledge of computing through postgraduate study and practical work. This profile is a record of my learning, selected public work, and progress toward building reliable software.
+I am developing as a software engineer through postgraduate study and hands-on projects. I use this profile to document practical learning, explore engineering concepts, and build a portfolio of well-explained software.
 
-## Focus
+## Current technical focus
 
-- **Computing foundations** — strengthening my understanding of core concepts and how they apply to real-world problems.
-- **Software development** — building practical skills through clearly scoped exercises and projects.
-- **Engineering practice** — learning to document decisions, test work, use version control, and improve solutions iteratively.
-- **Research and communication** — developing academic writing, source evaluation, and evidence-based technical explanations.
+- **Programming:** Python, with continued development in C# and .NET.
+- **Software engineering:** requirements, problem-solving, maintainable code, testing, and iterative development.
+- **Computer science foundations:** algorithms, data structures, complexity analysis, and computational thinking.
+- **Backend and systems:** APIs, databases, system design, and automation.
+- **Engineering workflow:** Git, GitHub, documentation, debugging, and version control.
 
-## Selected public work
+## Selected work
 
-I will feature projects here when they are ready to share publicly, with clear documentation explaining their purpose, implementation, and current status.
+### [Unit 3 – Algorithm Analysis and Implementation](https://github.com/synckerz/unit3-algorithm-analysis)
+
+A Python learning project comparing Bubble Sort and Quick Sort. It includes implementations, a small performance experiment, recorded results, a graph, analysis, and reflection.
+
+This is an academic learning artefact, not a production software system.
 
 ## Learning portfolio
 
-I maintain a learning portfolio alongside my MSc to record module activities, completed artefacts, feedback, reflections, and development goals.
+I maintain a learning portfolio alongside my MSc to record module activities, practical artefacts, feedback, reflections, and development goals.
 
-**Portfolio:** https://synckerz.github.io/synckerz/
+**[Visit my learning portfolio](https://synckerz.github.io/synckerz/)**
+
+## What I am working towards
+
+- Building complete software projects from requirements through implementation and testing.
+- Understanding the design decisions behind reliable and maintainable systems.
+- Improving Python and C#/.NET through regular practice.
+- Learning to collaborate through issues, code reviews, and open-source contributions.
+- Developing a portfolio that demonstrates what I can build and explain.
 
 ## Working principles
 
 - Be accurate about what is complete and what is still in progress.
 - Prefer clear, maintainable solutions over unnecessary complexity.
-- Use feedback and testing to improve work.
+- Test assumptions and explain technical decisions.
+- Learn by reading, building, debugging, and improving.
 - Support technical and academic claims with appropriate evidence.
 
 ---
 
-*Learning through practice; improving through reflection.*
+*Learning through practice. Engineering with purpose.*
